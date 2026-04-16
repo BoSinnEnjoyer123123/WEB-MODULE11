@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "Английские слова",
+    "cards": [
+      { "id": 1, "word": "Apple",     "translation": "Яблоко" },
+      { "id": 2, "word": "Book",      "translation": "Книга" },
+      { "id": 3, "word": "Cat",       "translation": "Кошка" },
+      { "id": 4, "word": "Dog",       "translation": "Собака" },
+      { "id": 5, "word": "House",     "translation": "Дом" },
+      { "id": 6, "word": "Water",     "translation": "Вода" },
+      { "id": 7, "word": "Sun",       "translation": "Солнце" },
+      { "id": 8, "word": "Moon",      "translation": "Луна" },
+      { "id": 9, "word": "Tree",      "translation": "Дерево" },
+      { "id": 10, "word": "Flower",   "translation": "Цветок" },
+      { "id": 11, "word": "River",    "translation": "Река" },
+      { "id": 12, "word": "Mountain", "translation": "Гора" }
+    ]
+  }
+]

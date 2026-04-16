@@ -1,0 +1,43 @@
+.set {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.set-name {
+  font-size: 1.3rem;
+  color: #333;
+  margin: 0;
+}
+
+.set-controls {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.set-counter {
+  font-size: 1rem;
+  color: #555;
+  min-width: 60px;
+  text-align: center;
+}
+
+.set-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  background: #f0f0f0;
+  font-size: 1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.set-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
