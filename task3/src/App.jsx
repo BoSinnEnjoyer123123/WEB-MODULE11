@@ -9,7 +9,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/WEB-MODULE11">
       <Routes>
         <Route path="/" element={<PageSelectSet />} />
         <Route path="/set/:id" element={<PageViewSet />} />
