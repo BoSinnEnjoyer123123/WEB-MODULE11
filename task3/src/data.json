@@ -1,0 +1,14 @@
+[
+  { "id": 1,  "front": "apple",      "back": "яблоко",         "setName": "English" },
+  { "id": 2,  "front": "red",        "back": "красный",        "setName": "English" },
+  { "id": 3,  "front": "house",      "back": "дом",            "setName": "English" },
+  { "id": 4,  "front": "water",      "back": "вода",           "setName": "English" },
+  { "id": 5,  "front": "book",       "back": "книга",          "setName": "English" },
+  { "id": 6,  "front": "cat",        "back": "кошка",          "setName": "English" },
+  { "id": 7,  "front": "margin",     "back": "отступ внешний", "setName": "css-свойства" },
+  { "id": 8,  "front": "padding",    "back": "отступ внутренний", "setName": "css-свойства" },
+  { "id": 9,  "front": "display",    "back": "отображение",    "setName": "css-свойства" },
+  { "id": 10, "front": "position",   "back": "позиционирование", "setName": "css-свойства" },
+  { "id": 11, "front": "flex",       "back": "гибкий контейнер", "setName": "css-свойства" },
+  { "id": 12, "front": "overflow",   "back": "переполнение",   "setName": "css-свойства" }
+]
